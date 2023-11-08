@@ -1,0 +1,19 @@
+body {
+    max-width: 390px;
+}
+
+
+h1 {
+    color: red;
+    font-size: 62px;
+    background: yellow;
+}
+img {
+    width: 380px;
+}
+
+h5 {
+    color: green;
+    font-size: 35px;
+    background: yellow;
+}
